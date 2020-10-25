@@ -198,3 +198,4 @@ $(document).ready(function() {
 	//INITIATE FORM VALIDATOR
 	formValidator.init();
 }());
+// new stuff
